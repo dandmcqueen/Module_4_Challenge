@@ -33,7 +33,9 @@ A variety of information was gathered in this analysis
 |Daily Returns| Cumulative Returns|
 |---|---|
 ![](images/daily_returns.JPG)|![](images/cumulative_returns.JPG)
+
 |Box Plot|Sharp Ratio|
+|---|---|
 ![](images/box_plot.JPG)|![](images/sharp_ratio.JPG)
 
 ---
