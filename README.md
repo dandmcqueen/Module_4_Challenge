@@ -1,6 +1,6 @@
 Module 4 Challenge
 
-In this project, 4 investment options ara analyzed along side the S&P 500 in an effor to decide which would be the best new addition for a retirement portfolio.
+In this project, 4 investment options are analyzed alongside the S&P 500 in an effort to decide which would be the best new addition for a retirement portfolio.
 
 Several markers are calculated in determining the overall best investment option, including annualized returns, beta averages, and sharp ratios.
 
@@ -18,7 +18,7 @@ This project uses Python 3.9.7 and the following libraries -
 
 ## Installation Guide
 
-Labraries can be imported as follows
+Libraries can be imported as follows
 ```
 import pandas as pd
 
@@ -28,7 +28,7 @@ import numpy as np
 
 ## Usage
 
-A variety of information was gathered in this analysis
+A variety of information were gathered in this analysis.
 
 |Daily Returns| Cumulative Returns|
 |---|---|
